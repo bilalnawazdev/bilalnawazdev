@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 🌱 I’m currently learning MERN stack.
+### 💬 Ask me about Machine Learning, Neural Networks, Computer Vision, Data Analysis and Data Visualization.
+### 🤔 I’m looking for help with backend development techonologies.
+### 👀 I’m interested in HTML, CSS, Javacript, Java, Python, MySQL.
 
 <!--
 **bilalnawazdev/bilalnawazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
